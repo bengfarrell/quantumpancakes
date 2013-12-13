@@ -4,4 +4,4 @@ quantumpancakes
 Obviously
 
 
-![Image](imgs/quantumpancakes.jpg?raw=true)
+![Image](imgs/quantumpancake.jpg?raw=true)
